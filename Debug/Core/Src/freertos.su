@@ -1,0 +1,8 @@
+stm32f4xx_ll_usart.h:1791:26:LL_USART_IsActiveFlag_RXNE	16	static
+stm32f4xx_ll_usart.h:2226:26:LL_USART_IsEnabledIT_RXNE	16	static
+stm32f4xx_ll_usart.h:2402:25:LL_USART_ReceiveData8	16	static
+freertos.c:113:6:MX_FREERTOS_Init	8	static
+freertos.c:169:6:StartDefaultTask	16	static
+freertos.c:199:6:Green_LED_task	16	static
+freertos.c:233:6:Red_LED_task	40	static
+freertos.c:287:6:USART2_IRQHandler	16	static
